@@ -87,9 +87,9 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 <!-- If this was a real project, you'd replace these with actual GitHub usernames and links -->
 | Avatar | Name | Role | Contributions |
 |--------|------|------|--------------|
-| 🧑‍💻 | Jane Doe | Lead Developer | Backend Architecture |
-| 🎨 | John Smith | Frontend Lead | UI/UX Design |
-| 🔧 | Alex Johnson | DevOps | CI/CD, Infrastructure |
+| 🧑‍💻 | Saravana Prabhu | Lead Developer | Backend Architecture |
+| 🎨 | Rohan Murali | Frontend Lead | UI/UX Design |
+| 🔧 |  Sidharth | DevOps | CI/CD, Infrastructure |
 
 ## 📊 Project Status
 
