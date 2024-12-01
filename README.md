@@ -87,8 +87,8 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 <!-- If this was a real project, you'd replace these with actual GitHub usernames and links -->
 | Avatar | Name | Role | Contributions |
 |--------|------|------|--------------|
-| 🧑‍💻 | Saravana Prabhu |  Developer | Database Manage / Api Dev |
 | 🎨 | Rohan Murali | Developer  | FrontEnd Architecture / UI/UX Design |
+| 🧑‍💻 | Saravana Prabhu |  Developer | Database Manage / Api Dev |
 | 🔧 |  Sidharth | Developer | Backend / LLM Handler|
 | 🔧 |  ArunPrakash | Developer | Backend Architecture |
 | 🧑‍💻 | Sreekanth| Developer  | Api Dev |
