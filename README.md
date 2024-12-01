@@ -88,7 +88,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 |--------|------|------|--------------|
 | <img src="https://github.com/saravanap-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Saravana Prabhu | Developer | Database Management / API Development |
 | <img src="https://github.com/rohanmurali007.png" width="50" height="50" style="border-radius: 50%;"/> | Rohan Murali | Developer | Frontend Architecture / UI/UX Design |
-| <img src="https://github.com/sidharth-potdar.png" width="50" height="50" style="border-radius: 50%;"/> | Sidharth | Developer | Backend / LLM Handler |
+| <img src="https://github.com/sidh4rth7-potdar.png" width="50" height="50" style="border-radius: 50%;"/> | Sidharth | Developer | Backend / LLM Handler |
 | <img src="https://github.com/arunprakash-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Arun Prakash | Developer | Backend Architecture |
 | <img src="https://github.com/sreekanth-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Sreekanth | Developer | API Development |
 | <img src="https://github.com/kishore-kumar-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Kishore Kumar | Developer | Backend Development |
