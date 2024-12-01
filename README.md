@@ -3,7 +3,7 @@
 ## Overview
 Task Orbit is a comprehensive task management application that seamlessly integrates modern technologies to provide a powerful, cross-platform productivity solution.
 
-![Project Banner](https://pic.surf/wm4)
+![Project Banner](https://pic.surf/fhd)
 
 ## 🛠 Tech Stack
 
