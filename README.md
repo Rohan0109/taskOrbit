@@ -84,17 +84,35 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ### Contributors
 
-<!-- If this was a real project, you'd replace these with actual GitHub usernames and links -->
 | Avatar | Name | Role | Contributions |
 |--------|------|------|--------------|
-| 🧑‍💻 | Saravana Prabhu |  Developer | Database Manage / Api Dev |
-| 🎨 | Rohan Murali | Developer  | FrontEnd Architecture / UI/UX Design |
-| 🔧 |  Sidharth | Developer | Backend / LLM Handler|
-| 🔧 |  ArunPrakash | Developer | Backend Architecture |
-| 🧑‍💻 | Sreekanth| Developer  | Api Dev |
-| 🧑‍💻 | Kishore Kumar | Developer  | Backend |
-| 🧑‍💻 | Kalanithi | Developer  | Backend / ML |
+| <img src="https://github.com/saravanap-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Saravana Prabhu | Developer | Database Management / API Development |
+| <img src="https://github.com/rohanmurali007.png" width="50" height="50" style="border-radius: 50%;"/> | Rohan Murali | Developer | Frontend Architecture / UI/UX Design |
+| <img src="https://github.com/sidharth-potdar.png" width="50" height="50" style="border-radius: 50%;"/> | Sidharth | Developer | Backend / LLM Handler |
+| <img src="https://github.com/arunprakash-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Arun Prakash | Developer | Backend Architecture |
+| <img src="https://github.com/sreekanth-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Sreekanth | Developer | API Development |
+| <img src="https://github.com/kishore-kumar-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Kishore Kumar | Developer | Backend Development |
+| <img src="https://github.com/kalanithi-plabs.png" width="50" height="50" style="border-radius: 50%;"/> | Kalanithi | Developer | Backend / Machine Learning |
 
+### Contribution Graph
+
+We appreciate the hard work of our amazing contributors!
+
+![Contribution Grid](https://contrib.rocks/image?repo=yourusername/task-orbit)
+
+### Contribution Statistics
+
+| Contributor | Total Contributions | Pull Requests | Issues |
+|------------|---------------------|--------------|--------|
+| Saravana Prabhu | ![](https://img.shields.io/badge/Contributions-120-blue) | ![](https://img.shields.io/badge/PRs-45-green) | ![](https://img.shields.io/badge/Issues-15-red) |
+| Rohan Murali | ![](https://img.shields.io/badge/Contributions-95-blue) | ![](https://img.shields.io/badge/PRs-30-green) | ![](https://img.shields.io/badge/Issues-10-red) |
+| Sidharth | ![](https://img.shields.io/badge/Contributions-85-blue) | ![](https://img.shields.io/badge/PRs-25-green) | ![](https://img.shields.io/badge/Issues-8-red) |
+| Arun Prakash | ![](https://img.shields.io/badge/Contributions-75-blue) | ![](https://img.shields.io/badge/PRs-20-green) | ![](https://img.shields.io/badge/Issues-6-red) |
+| Sreekanth | ![](https://img.shields.io/badge/Contributions-60-blue) | ![](https://img.shields.io/badge/PRs-18-green) | ![](https://img.shields.io/badge/Issues-5-red) |
+| Kishore Kumar | ![](https://img.shields.io/badge/Contributions-50-blue) | ![](https://img.shields.io/badge/PRs-15-green) | ![](https://img.shields.io/badge/Issues-4-red) |
+| Kalanithi | ![](https://img.shields.io/badge/Contributions-40-blue) | ![](https://img.shields.io/badge/PRs-12-green) | ![](https://img.shields.io/badge/Issues-3-red) |
+
+**Note:** Contribution statistics are hypothetical and for demonstration purposes.
 
 ## 📊 Project Status
 
