@@ -91,6 +91,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 | 🧑‍💻 | Saravana Prabhu |  Developer | Database Manage / Api Dev |
 | 🔧 |  Sidharth | Developer | Backend / LLM Handler|
 | 🔧 |  ArunPrakash | Developer | Backend Architecture |
+| 🔧 |  Kunguma Gokul | Developer | Backend / Computer Vision |
 | 🧑‍💻 | Sreekanth| Developer  | Api Dev |
 | 🧑‍💻 | Kishore Kumar | Developer  | Backend |
 | 🧑‍💻 | Kalanithi | Developer  | Backend / ML |
