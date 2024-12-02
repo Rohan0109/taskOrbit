@@ -93,7 +93,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 | 🔧 |  ArunPrakash | Developer | Backend Architecture |
 | 🔧 |  Kunguma Gokul | Developer | Backend / Computer Vision |
 | 🧑‍💻 | Sreekanth| Developer  | Api Dev |
-| 🧑‍💻 | Kishore Kumar | Developer  | Backend |
+| 🧑‍💻 | Kishore Kumar | Developer  | Devops / ML |
 | 🧑‍💻 | Kalanithi | Developer  | Backend / ML |
 
 
