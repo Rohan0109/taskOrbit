@@ -95,6 +95,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 | 🧑‍💻 | Sreekanth| Developer  | Api Dev |
 | 🧑‍💻 | Kishore Kumar | Developer  | Devops / ML |
 | 🧑‍💻 | Kalanithi | Developer  | Backend / ML |
+| 🧑‍💻 | Dhinesh | Analyst  | Dataprocess / Workflow Handle  |
 
 
 ## 📊 Project Status
