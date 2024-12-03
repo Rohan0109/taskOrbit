@@ -1,0 +1,18 @@
+version: "27.0.3"
+
+services:
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app
+    environment:
+      - FAST_API_ENV=development
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "8080:80"

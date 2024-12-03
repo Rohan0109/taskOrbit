@@ -49,23 +49,16 @@ graph TD
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/task-orbit.git
+git clone https://github.com/Rohan0109/taskOrbit.git
 cd task-orbit
 ```
+2.Build and start the project with Docker
 
-2. Set up backend
 ```bash
-cd backend
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
-```
-
-3. Set up frontend
-```bash
-cd ../frontend
-flutter pub get
-```
+docker-compose up --build
+````
+Frontend: Access the Flutter web app at http://localhost:8080.
+Backend: Access the FastAPI server at http://localhost:5000.
 
 ## 📦 Development Setup
 
@@ -84,17 +77,17 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ### Contributors
 
-<!-- If this was a real project, you'd replace these with actual GitHub usernames and links -->
 | Avatar | Name | Role | Contributions |
 |--------|------|------|--------------|
 | 🎨 | Rohan Murali | Developer  | FrontEnd Architecture / UI/UX Design |
 | 🧑‍💻 | Saravana Prabhu |  Developer | Database Manage / Api Dev |
 | 🔧 |  Sidharth | Developer | Backend / LLM Handler|
-| 🔧 |  ArunPrakash | Developer | Backend Architecture |
-| 🔧 |  Kunguma Gokul | Developer | Backend / Computer Vision |
+| 🔧 |  ArunPrakash | Developer | Developer Activity Tracking  |
+| 🔧 |  Kunguma Gokul | Developer | Knowledge Transfer & Documentation  |
 | 🧑‍💻 | Sreekanth| Developer  | Api Dev |
 | 🧑‍💻 | Kishore Kumar | Developer  | Devops / ML |
 | 🧑‍💻 | Kalanithi | Developer  | Backend / ML |
+| 🧑‍💻 | Dhinesh | Analyst  |  Business Analytics & Project Metrics |
 
 
 ## 📊 Project Status
