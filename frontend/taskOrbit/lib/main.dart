@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:shadcn_flutter/shadcn_flutter.dart';
-import 'package:taskorbit/screens/kaban_screen.dart';
+import 'package:taskorbit/presentation/screens/kaban-multi-task-screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -18,11 +18,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ShadcnApp(
+
       debugShowCheckedModeBanner: false,
       title: 'My App',
-      home:  KanbanBoardScreen(),
+      home:  KanbanMultiBoard(),
       theme: ThemeData(
-        colorScheme: ColorSchemes.darkZinc(),
+
+        colorScheme: ColorSchemes.lightZinc(),
         radius: 0.7,
       ),
     );
