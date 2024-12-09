@@ -79,7 +79,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 | Avatar | Name | Role | Contributions |
 |--------|------|------|--------------|
-| 🎨 | Rohan Murali | Developer  | Frontend |projectArchitecture | UI/UX Design |
+| 🎨 | Rohan Murali | Developer  | Frontend /projectArchitecture / UI/UX Design |
 | 🧑‍💻 | Saravana Prabhu |  Developer | Database Manage / Api Dev |
 | 🔧 |  Sidharth | Developer | Backend / LLM Handler|
 | 🔧 |  ArunPrakash | Developer | Developer Activity Tracking  |
