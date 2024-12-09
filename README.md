@@ -92,7 +92,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ## 📊 Project Status
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/task-orbit/main.yml)
+![Build Status](https://img.shields.io/github/actions/workflow/status/Rohan0109/task-orbit/main.yml)
 ![Issues](https://img.shields.io/github/issues/yourusername/task-orbit)
 ![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/task-orbit)
 
