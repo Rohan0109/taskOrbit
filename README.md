@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-- Project Link: [https://github.com/yourusername/task-orbit](https://github.com/yourusername/task-orbit)
+- Project Link: [https://github.com/yourusername/task-orbit](https://github.com/Rohan0109/task-orbit)
 - Join our [Discord Community](https://discord.gg/vWy7MmNh)
 
 ---
